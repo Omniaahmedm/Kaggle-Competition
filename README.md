@@ -12,7 +12,7 @@ The Kaggle Playground Series is a set of competitions on the Kaggle platform des
 ## List of Competition:
 |Competition                                                                                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------------------------|
-|[Loan Approval Prediction]([link](https://github.com/Omniaahmedm/Kaggle-Competition/tree/main/Loan%20Approval%20Prediction))|
+|[Loan Approval Prediction](https://github.com/Omniaahmedm/Kaggle-Competition/tree/main/Loan%20Approval%20Prediction)|
 |[House Prices - Advanced Regression Techniques](Link)|
 |[]()|
 |[]() |
