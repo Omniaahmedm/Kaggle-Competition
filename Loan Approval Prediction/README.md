@@ -1,5 +1,5 @@
 # Loan Approval Prediction
-![](images/project-image.png)
+
 
 ## Table of Contents
 - Goal
