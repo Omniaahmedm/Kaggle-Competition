@@ -1,4 +1,5 @@
 # Loan Approval Prediction
+![](images/project-image.png)
 
 ## Table of Contents
 - Goal
@@ -38,6 +39,6 @@
 - Optimize the model's hyperparameters to improve its performance. This can be done through techniques like grid search or random search. Grid Search method has 
   been applied in this problem.
 
-** Result:**
+**Result:**
    The project achieves an accuracy of around 0.96 using a Bagging with XGBoost model. Further improvements can be made by feature engineering and exploring 
     different algorithms.
