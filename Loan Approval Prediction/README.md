@@ -1,5 +1,5 @@
-#Loan Approval Prediction
-------------------------------------------------------
+# Loan Approval Prediction
+
 ## Table of Contents
 - Goal
 - Data Preprocessing
